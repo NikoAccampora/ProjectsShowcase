@@ -1,0 +1,1 @@
+Um simples projeto de exercício utilizando coleções. Aqui eu escolhi o um tema hospitalar, o que me pareceu ser prático.
