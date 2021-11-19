@@ -8,23 +8,15 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nikoaccampora</groupId>
-	<artifactId>MegaMan_FanSite</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>MegaMan_FanSite</name>
-	<description>Demo project for Spring Boot</description>
+	<groupId>br.com.nikoaccampora</groupId>
+	<artifactId>aula_23_ExercFandomAPI</artifactId>
+	<version>1.0.0</version>
+	<name>aula_23_ExercFandomAPI</name>
+	<description>Exercicio Fandom API</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -35,11 +27,6 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
-		</dependency>
-		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
