@@ -1,0 +1,1 @@
+Este é um simples "Jogo da cobra". Caso perca, terá de iniciar o programa novamente.
