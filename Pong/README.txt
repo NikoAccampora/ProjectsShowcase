@@ -1,0 +1,1 @@
+Um simples jogo de Ping-Pong digital estilo arcade/fliperama. Requer 2 jogadores. Não há limite de pontuação. 
